@@ -1,0 +1,1 @@
+The backend is developed using Node.js and Express.js, with MongoDB as the database and Mongoose for object data modeling. It provides RESTful API endpoints to handle task creation, retrieval, updating, and deletion. The server connects to a MongoDB database and includes separate routes, controllers, and models for clean code structure.
